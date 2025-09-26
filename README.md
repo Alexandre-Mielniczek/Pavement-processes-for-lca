@@ -5,7 +5,7 @@ LCI datasets for road pavement construction and maintenance, based on literature
 This file is a Brightway export in .bw2package format.
 
 Content: life cycle inventory of processes related to road pavement construction and maintenance (asphalt production, transport, paving, milling, sweeping, etc.).
-Use: can be directly imported into Brightway2 or Brightway25 with the import_bw2package function.
+Use: can be directly imported into Brightway2 or Brightway25 with the import_bw2package function. Based on EcoInvent 3.9.1 cutoff.
 Purpose: to enable reuse and comparison in LCA studies.
 
 # Pavement related processes.xlsx
