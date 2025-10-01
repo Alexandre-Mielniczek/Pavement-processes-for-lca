@@ -29,6 +29,6 @@ Purpose: to document the background of the inventory and ensure transparency of 
 # How to cite
 Mielniczek (2025). Improved consideration of outdoor spaces in eco-design tools for urban projects. 
 
-PhD thesis, École des Ponts (ENPC) & Institut national de l'information géographique et forestière (IGN), Navier and LaSTIG Laboratories. 
+PhD thesis, École Nationale des Ponts et Chaussées (ENPC) & Institut national de l'information géographique et forestière (IGN), Navier and LaSTIG Laboratories. 
 
 DOI/URL (HAL/Zenodo). => To be updated
