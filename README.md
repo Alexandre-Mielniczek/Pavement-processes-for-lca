@@ -25,3 +25,10 @@ This PDF document provides the methodological note used to build the life cycle 
 Content: detailed description of construction and maintenance operations (asphalt plant, transport, paving equipment, milling, sweeping, etc.), with data sources and calculation assumptions.
 
 Purpose: to document the background of the inventory and ensure transparency of data selection and modeling choices.
+
+# How to cite
+Mielniczek (2025). Improved consideration of outdoor spaces in eco-design tools for urban projects. 
+
+PhD thesis, École des Ponts (ENPC) & Université Gustave Eiffel, Navier Laboratory (UMR 8205) and LaSTIG. 
+
+DOI/URL (HAL/Zenodo). => To be updated
